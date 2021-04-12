@@ -3,3 +3,5 @@ Homework 1 is contained within *hw1.ipynb*, a Google Colab notebook that mounts 
 *hw1_working.ipynb* contains additional stuff that I'm working on, but doesn't render within Github, so you have to download to view, which is more inconvenient.
 
 Some generated figure are saved within the *figs* folder
+
+Counting the denominations splits and the hangman UNIX problem attempts are in the *exercises* folder
